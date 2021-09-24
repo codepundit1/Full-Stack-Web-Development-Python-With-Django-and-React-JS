@@ -13,7 +13,7 @@ else:
 
 
 
-#Nested For Loop
+#Nested For condition
 
 age = int (input("Enter your age :"))
 
@@ -46,3 +46,4 @@ elif cgpa <= 2 & cgpa >= 1:
     print("Chap Nap diya pass")
 else:
     print("Fail")
+
