@@ -1,4 +1,3 @@
-
 """
 5. Given a list, iterate it, and display numbers divisible by five, and if you find a number greater than 150, stop the loop iteration.
 """

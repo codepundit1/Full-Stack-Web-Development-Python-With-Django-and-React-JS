@@ -2,7 +2,8 @@
 3. Print First 10 natural numbers using while loop.
 
 """
-i = 0
-while i < 10:
-    print(i)
-    i += 1
+num = 0
+
+while num < 10:
+    print(num)
+    num += 1
