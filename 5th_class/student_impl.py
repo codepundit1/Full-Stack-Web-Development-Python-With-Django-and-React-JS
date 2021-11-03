@@ -22,5 +22,5 @@ class StudentImpl(Student):
         
 # student implementation class object
 
-student = StudentImpl("shiplo", "EEE")
+student = StudentImpl("Shiplo", "SWE")
 print(student.name, student.dept)
